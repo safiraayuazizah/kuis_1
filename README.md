@@ -1,5 +1,6 @@
 # kuis_1
-
+# hasil kuis 1
+![hasil](images/kuis1.jpg)
 A new Flutter project.
 
 ## Getting Started
